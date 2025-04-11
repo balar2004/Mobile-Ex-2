@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/c4462122-94b4-417b-9b14-a21f77424965)
+![image](https://github.com/user-attachments/assets/c4462122-94b4-417b-9b14-a21f77424965)           
 
 ![image](https://github.com/user-attachments/assets/18ded089-316e-4287-a3c8-698eb56a0949)
 
