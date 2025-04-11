@@ -42,7 +42,7 @@ Step 6:Close the Android project.
 ## Program:
 ```
 Developed by: Bala R
-RegisterNumber:  212222220007
+RegisterNumber: 212222220007
 ```
 
 ## MainActivity.java:
